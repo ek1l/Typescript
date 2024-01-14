@@ -1,0 +1,16 @@
+{
+  "name": "ex5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script-crud.js",
+  "scripts": {
+    "build": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
